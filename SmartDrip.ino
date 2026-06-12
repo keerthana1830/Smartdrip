@@ -2,6 +2,7 @@
 #include <FirebaseESP32.h>
 #include <WiFiClientSecure.h>
 
+
 #include "secrets.h" // Create a local secrets.h from secrets.example.h and do NOT commit it
 // ---------- Configuration ----------
 // WiFi credentials (override by defining in secrets.h)

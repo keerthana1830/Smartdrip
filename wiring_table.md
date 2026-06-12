@@ -1,5 +1,6 @@
 # Wiring Table for SmartDrip
 
+
 | Component          | ESP32 Pin | Description                              |
 |--------------------|-----------|------------------------------------------|
 | Drip IR Sensor     | GPIO27    | Interrupt input – detects each drop (active LOW) |

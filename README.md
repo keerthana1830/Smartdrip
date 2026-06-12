@@ -1,7 +1,8 @@
 # SmartDrip
 
 Small ESP32-based drip monitor that counts drops, detects low fluid level, uploads telemetry to Firebase Realtime Database, and sends alerts to Telegram.
-
+ 
+ 
 Files:
 
 - `SmartDrip.ino` — main sketch
